@@ -1,2 +1,3 @@
- <h3> DawnMarie Kuhn's Page 
-  <h5> I hope I am doing this right!
+# <h1> Welcome to my page!
+## <h3> *My name is DawnMarie Kuhn*
+### <h5>I am trying to learn to code. 
